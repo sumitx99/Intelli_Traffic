@@ -66,6 +66,12 @@ https://github.com/user-attachments/assets/1b386e26-6232-49b7-8bc2-5476c1353248
 - 🛣️ Integrate smart IoT-based traffic light control.
 - 📊 Generate traffic density analytics.
 
+<div align="center">
+  
+![traffic-light-of-the-future-by-art-lebedev1](https://github.com/user-attachments/assets/446d13cb-d6ee-40ed-9163-2eeab61d273d)
+
+</div>
+
 ---
 
 ## 📌 License
