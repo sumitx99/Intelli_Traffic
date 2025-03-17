@@ -1,8 +1,11 @@
 # 🚦 Traffic_Management using AI/ML 🚦
+
 <div align="center">
-![Traffic GIF](https://github.com/user-attachments/assets/992ef713-79c4-4f6e-924f-40cca5b91fdc)
+  
+![TRAFFIC GIF](https://github.com/user-attachments/assets/6c494c2e-0552-4673-abdf-4778a8aa6044)
+
 </div>
-This project aims to optimize traffic light control using AI and machine learning techniques. The system detects vehicles in real-time using YOLOv8 and dynamically adjusts traffic light timing to reduce congestion and waiting times.🚗🚦
+This project(IntelliTraffic) aims to optimize traffic light control using AI and machine learning techniques. The system detects vehicles in real-time using YOLOv8 and dynamically adjusts traffic light timing to reduce congestion and waiting times.🚗🚦
 
 ---
 
