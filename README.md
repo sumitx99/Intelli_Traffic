@@ -9,7 +9,6 @@ This project(IntelliTraffic) aims to optimize traffic light control using AI and
 
 ---
 
-
 ## 📌 About the Project
 - **🚘 Vehicle Detection**: Uses YOLOv8 to detect cars, motorcycles, buses, and trucks.
 - **⏳ Dynamic Traffic Light**: Automatically adjusts traffic signal timing based on the number of detected vehicles.
