@@ -1,6 +1,6 @@
 # 🚦 Traffic_Management using AI/ML 🚦
 <div align="center">
-  
+
 ![TRAFFIC GIF](https://github.com/user-attachments/assets/6c494c2e-0552-4673-abdf-4778a8aa6044)
 
 </div>
